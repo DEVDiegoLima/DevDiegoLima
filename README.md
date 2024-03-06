@@ -1,4 +1,6 @@
-# Oi 👋 Meu nome é Diego
+<h1 style="display: flex; align-items: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+Pessoal!+%F0%9F%91%8B%F0%9F%8F%BD;+Meu+nome+%C3%A9+Diego+Lima!"  alt="My name"/>
+</h1>
 
 Desenvolvedor Front-End
 
